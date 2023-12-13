@@ -1,0 +1,106 @@
+[
+  {
+    "userId": "bd99e203-c381-45f4-bb01-816af259bb99",
+    "name": "Billie Goodwin",
+    "username": "Nigel_Cole83",
+    "email": "Chanel65@hotmail.com",
+    "password": "TVDKuGbGYQk0ksC",
+    "registeredAt": "2023-11-19T11:52:52.154Z"
+  },
+  {
+    "userId": "8fe9f269-bcb3-4783-9fb3-ccee8d6dcdd6",
+    "name": "Erin Hintz",
+    "username": "Jayme97",
+    "email": "Tressie.Rice66@gmail.com",
+    "password": "rx0zrE9KDKvS66x",
+    "registeredAt": "2023-05-12T14:19:37.641Z"
+  },
+  {
+    "userId": "cadf6d31-42c4-4358-8967-0813a2310fd9",
+    "name": "Ellen Spinka",
+    "username": "Domenick79",
+    "email": "Camila.Hackett-Kiehn@yahoo.com",
+    "password": "1w8cueQxKSke708",
+    "registeredAt": "2023-01-16T08:40:12.125Z"
+  },
+  {
+    "userId": "414cf18c-8557-481c-b87e-62f84c841365",
+    "name": "Harvey Bradtke",
+    "username": "Tressa.Beer",
+    "email": "Lia.Lehner22@yahoo.com",
+    "password": "saeVuHRQ_7CZF5_",
+    "registeredAt": "2023-09-24T07:38:42.951Z"
+  },
+  {
+    "userId": "a6200a7a-c478-4d6b-91ed-1fa579f7aeef",
+    "name": "Jaime Lemke",
+    "username": "Austin.Bartoletti76",
+    "email": "Nash_Fadel6@hotmail.com",
+    "password": "1ms74FF8qzRx8Qf",
+    "registeredAt": "2022-12-25T22:48:56.598Z"
+  },
+  {
+    "userId": "6e574d6a-b8b1-4778-9785-a209259847f5",
+    "name": "Tami Bailey",
+    "username": "Michael_Marquardt80",
+    "email": "Elfrieda_Simonis88@hotmail.com",
+    "password": "4VIrBv123JcO2LO",
+    "registeredAt": "2023-02-22T20:44:24.701Z"
+  },
+  {
+    "userId": "1721c6b7-dda2-4bc3-8d39-d834e46c009e",
+    "name": "Randal Will",
+    "username": "Alba_Moore89",
+    "email": "Reed.Huels-Howell@yahoo.com",
+    "password": "X1eKB4Hm6PVDnv8",
+    "registeredAt": "2022-12-24T13:45:41.138Z"
+  },
+  {
+    "userId": "167a0f22-fba1-47b4-8411-b31f13e5be8b",
+    "name": "Rolando Hahn",
+    "username": "Estevan48",
+    "email": "Lincoln64@gmail.com",
+    "password": "mqjU4dyRqS2759V",
+    "registeredAt": "2023-10-18T01:17:49.754Z"
+  },
+  {
+    "userId": "5f7f00fd-8375-4bf7-9f92-2df5dd53b262",
+    "name": "Don Littel",
+    "username": "Lew84",
+    "email": "Shanie89@gmail.com",
+    "password": "SxUUmchNEZl_VBp",
+    "registeredAt": "2022-12-23T02:04:15.069Z"
+  },
+  {
+    "userId": "70b951a9-c9c6-439c-ae1e-f1998a14b464",
+    "name": "Clyde Berge",
+    "username": "Robbie_Mayer",
+    "email": "Grady_Nikolaus40@gmail.com",
+    "password": "ccGty0TB0vwRsb9",
+    "registeredAt": "2023-05-28T03:54:49.176Z"
+  },
+  {
+    "name": "Ajay",
+    "username": "ajay",
+    "password": "demo123",
+    "email": "ajay@gmail.com",
+    "userId": "a8651f86-af28-48e9-9024-63eacac85923",
+    "registeredAt": "2023-11-29T16:34:24.329Z"
+  },
+  {
+    "name": "John Doe",
+    "username": "john_doe",
+    "password": "paasssss",
+    "email": "john.doe@example.com",
+    "userId": "eef70006-dcc4-4a3d-9cbb-df1da342e632",
+    "registeredAt": "2023-12-07T05:00:38.124Z"
+  },
+  {
+    "name": "John Doe",
+    "username": "john_doo",
+    "password": "paasssss",
+    "email": "john.doe@example.com",
+    "userId": "35ba198c-1a33-4a69-b810-135a1191a3a5",
+    "registeredAt": "2023-12-12T15:36:02.542Z"
+  }
+]
